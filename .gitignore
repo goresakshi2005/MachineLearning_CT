@@ -21,8 +21,6 @@ Thumbs.db
 *.log
 *.tmp
 *.bak
-*.pkl
 
-Dataset .csv
-recommendation.ipynb
-ratings_prediction.ipynb
+cuisine_classifier.pkl
+
